@@ -1,0 +1,56 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 21999,
+                "file_path": "results\\10\\My Behavior\\My Behavior-21999.onnx",
+                "reward": -2.9822730192771325,
+                "creation_time": 1726997943.764927,
+                "auxillary_file_paths": [
+                    "results\\10\\My Behavior\\My Behavior-21999.pt"
+                ]
+            },
+            {
+                "steps": 37120,
+                "file_path": "results\\10\\My Behavior\\My Behavior-37120.onnx",
+                "reward": -2.977823706059441,
+                "creation_time": 1726998354.4097435,
+                "auxillary_file_paths": [
+                    "results\\10\\My Behavior\\My Behavior-37120.pt"
+                ]
+            },
+            {
+                "steps": 41078,
+                "file_path": "results\\10\\My Behavior\\My Behavior-41078.onnx",
+                "reward": -2.6956845841756683,
+                "creation_time": 1726998427.0145645,
+                "auxillary_file_paths": [
+                    "results\\10\\My Behavior\\My Behavior-41078.pt"
+                ]
+            },
+            {
+                "steps": 51324,
+                "file_path": "results\\10\\My Behavior\\My Behavior-51324.onnx",
+                "reward": null,
+                "creation_time": 1726998495.8319616,
+                "auxillary_file_paths": [
+                    "results\\10\\My Behavior\\My Behavior-51324.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 51324,
+            "file_path": "results\\10\\My Behavior.onnx",
+            "reward": null,
+            "creation_time": 1726998495.8319616,
+            "auxillary_file_paths": [
+                "results\\10\\My Behavior\\My Behavior-51324.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.4.1+cpu"
+    }
+}

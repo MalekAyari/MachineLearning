@@ -1,0 +1,12 @@
+/Library/
+/Logs/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ightmapSnapshot
+/Lightmap-*/ 
+
+venv/
+env/
+
+/Crashes/

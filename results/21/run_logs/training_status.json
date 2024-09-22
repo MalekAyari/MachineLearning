@@ -1,0 +1,56 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 275596,
+                "file_path": "results\\21\\My Behavior\\My Behavior-275596.onnx",
+                "reward": 347.4102005804739,
+                "creation_time": 1727006195.533652,
+                "auxillary_file_paths": [
+                    "results\\21\\My Behavior\\My Behavior-275596.pt"
+                ]
+            },
+            {
+                "steps": 282821,
+                "file_path": "results\\21\\My Behavior\\My Behavior-282821.onnx",
+                "reward": 197.73070857104133,
+                "creation_time": 1727012721.8223925,
+                "auxillary_file_paths": [
+                    "results\\21\\My Behavior\\My Behavior-282821.pt"
+                ]
+            },
+            {
+                "steps": 292825,
+                "file_path": "results\\21\\My Behavior\\My Behavior-292825.onnx",
+                "reward": -4.123291225138632,
+                "creation_time": 1727013285.5380888,
+                "auxillary_file_paths": [
+                    "results\\21\\My Behavior\\My Behavior-292825.pt"
+                ]
+            },
+            {
+                "steps": 295992,
+                "file_path": "results\\21\\My Behavior\\My Behavior-295992.onnx",
+                "reward": -5.6166920609608715,
+                "creation_time": 1727013614.2582293,
+                "auxillary_file_paths": [
+                    "results\\21\\My Behavior\\My Behavior-295992.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 295992,
+            "file_path": "results\\21\\My Behavior.onnx",
+            "reward": -5.6166920609608715,
+            "creation_time": 1727013614.2582293,
+            "auxillary_file_paths": [
+                "results\\21\\My Behavior\\My Behavior-295992.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.4.1+cpu"
+    }
+}
